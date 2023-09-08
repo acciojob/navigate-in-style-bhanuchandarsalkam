@@ -2,7 +2,10 @@
 .nav-items{
 	background-color:#D3D3D3;
 	gap:20px;
+	padding:10px;
 }
 .ul{
-	display:
+	display:inline;
+	margin-right:1rem;
+	list-style:none;
 }
